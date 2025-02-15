@@ -11,6 +11,9 @@ Un étudiant à **l'École Nationale Supérieure d'Informatique pour l'Industrie
 statistiques, optimisation,... 
 #### Économie
 
+#### Maîtrise externe :
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white), ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 ### 🕹️ Mes loisirs :
 
 #### Coder :

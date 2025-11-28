@@ -77,13 +77,5 @@ class Anjy:
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-[![iKazai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKazai)](https://github.com/iKazai/github-readme-stats)
----
-
-
 ⭐️ N'hésite pas à explorer mes repositories ! 
-
 </div>
